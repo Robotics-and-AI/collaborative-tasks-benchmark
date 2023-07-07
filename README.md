@@ -1,5 +1,5 @@
 # Building Benchmark (BB)
-![Assembled benchmark](http://url/to/img.png)
+<img src="https://github.com/Collaborative-Robotics-and-AI/BuildingBenchmark/blob/main/AssembledBenchmark.png" width="800">
 
 ## Introduction
 Benchmarks are crucial to help robotics research advance in an efficient and standardized manner, however, the collaborative assembly field lacks a benchmark with multiple tasks of varying task complexity. As such, we propose the Building Benchmark (BB). It contains 7 distinct tasks ranging from easy to difficult assembly scenarios, each having 1 to 3 parts, providing a rich environment for the study of collaborative assembly systems. Its design was grounded on the following criteria:
