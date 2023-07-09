@@ -24,4 +24,20 @@ The proposed benchmark is representative of a city landscape and contains a tota
 | Dovetail | <img valign='middle' alt='black' src='https://readme-swatches.vercel.app/000000?style=round'/>  | 2          | X     | X     |       |          |            |
 | Hospital | <img valign='middle' alt='white' src='https://readme-swatches.vercel.app/ffffff?style=round'/>  | 3          | X     |       | X     |          |            |
 
+## Benchmark deployment
 
+Essential elements of the benchmark:
+- 3d print tasks and base:
+  - 26 hours;
+  - 550g of PLA.
+
+Screw fastening operations:
+- 4 M5x30 screws;
+- 4 DIN 940 M5 nuts.
+
+Fixing base to GRID?:
+- 3d print corner pieces:
+  - x hours;
+  - xg of PLA.
+- 4 M4 x 20 screws;
+- 4 hammer nuts?.
