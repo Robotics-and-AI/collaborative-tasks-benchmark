@@ -2,10 +2,10 @@
 <img src="https://github.com/Collaborative-Robotics-and-AI/BuildingBenchmark/blob/main/AssembledBenchmark.png" width="800">
 
 ## Introduction
-Benchmarks are crucial to help robotics research advance in an efficient and standardized manner, however, the collaborative assembly field lacks a benchmark with multiple tasks of varying task complexity. As such, we propose the Building Benchmark (BB). It contains 7 distinct tasks ranging from easy to difficult assembly scenarios, each having 1 to 3 parts, providing a rich environment for the study of collaborative assembly systems. Its design was grounded on the following criteria:
+Benchmarks are crucial to help robotics research advance in an efficient and standardized manner, however, the collaborative assembly field lacks a benchmark with multiple tasks of varying task complexity. As such, we propose the Building Benchmark (BB). It contains 7 distinct tasks ranging from easy to difficult assembly scenarios, each with 1 to 3 parts, providing a rich environment for studying collaborative assembly systems. Its design was grounded on the following criteria:
 
 - Contain independent sequential assembly tasks 
-- Tasks with a wide variety of sturdy and graspable 3D printable pieces
+- Tasks have a wide variety of sturdy and graspable 3D printable pieces
 - Each piece has its own distinguishable features. 
 
 The benchmark mainly focuses on assisting in the development of collaborative systems, though it is also applicable towards
@@ -25,19 +25,18 @@ The proposed benchmark is representative of a city landscape and contains a tota
 | Hospital | <img valign='middle' alt='white' src='https://readme-swatches.vercel.app/ffffff?style=round'/>  | 3          | X     |       | X     |          |            |
 
 ## Benchmark deployment
+**Essential benchmark elements:**
+  - 3d print tasks and base:
+      - 520g of PLA
+      - 25 hours
 
-Essential elements of the benchmark:
-- 3d print tasks and base:
-  - 26 hours;
-  - 550g of PLA.
+**Screw fastening operations:**
+  - 4 M5x30 screws
+  - 4 DIN 940 M5 nuts
 
-Screw fastening operations:
-- 4 M5x30 screws;
-- 4 DIN 940 M5 nuts.
-
-Fixing base to GRID?:
-- 3d print corner pieces:
-  - x hours;
-  - xg of PLA.
-- 4 M4 x 20 screws;
-- 4 hammer nuts?.
+**Fix base to an extrusion table plate:**
+  - 3d print corner pieces:
+    - 20g of PLA
+    - 1 hour
+  - 4 M4 x 20 screws
+  - 4 adequately sized M4 T-nuts
