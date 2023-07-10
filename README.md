@@ -31,7 +31,7 @@ The proposed benchmark is representative of a city landscape and contains a tota
       - 25 hours
 
 **Screw fastening operations:**
-  - 4 M5x30 screws
+  - 4 M5 x 30 screws
   - 4 DIN 940 M5 nuts
 
 **Fix base to an extrusion table plate:**
