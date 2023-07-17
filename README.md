@@ -27,7 +27,7 @@ The proposed benchmark is representative of a city landscape and contains a tota
 | Hospital | <img valign='middle' alt='white' src='https://readme-swatches.vercel.app/ffffff?style=round'/>  | 3          | ✓     |       | ✓     |          |            |
 
 ## Benchmark deployment
-<img align="left" alt='Essential Hardware' src="https://github.com/Collaborative-Robotics-and-AI/BuildingBenchmark/blob/main/images/Essential.png" width="200"> 
+<img align="left" alt='Essential Hardware' src="https://github.com/Collaborative-Robotics-and-AI/BuildingBenchmark/blob/main/images/Essential_Hardware.png" width="200"> 
 
 ### Essential benchmark hardware
 
