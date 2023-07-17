@@ -32,7 +32,7 @@ The proposed benchmark is representative of a city landscape and contains a tota
 
 **Screw fastening operations:**
   - 4 M5 x 30 screws
-  - 4 DIN 940 M5 nuts
+  - 4 DIN 934 M5 nuts
 
 **Fix base to an extrusion table plate:**
   - 3d print corner pieces:
