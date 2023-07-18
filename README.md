@@ -28,30 +28,47 @@ The proposed benchmark is representative of a city landscape and contains a tota
 
 ## Benchmark deployment
 
-<img align="right" alt='Essential Hardware' src="https://github.com/Collaborative-Robotics-and-AI/BuildingBenchmark/blob/main/images/Essential_Hardware.png" width="300"> 
-
-### Essential benchmark hardware
-
-**3D printed buildings and base:**
-  - 520g of PLA
-  - 25 hours
-
-**Fasteners:**
-  - 4 M5 x 30 screws
-  - 4 ISO 4032 M5 nuts
-
-<br/><br/>
-<br/><br/>
-<br/><br/>
-
----
-### Optional benchmark hardware
-<img align="right" alt='Optional Hardware' src="https://github.com/Collaborative-Robotics-and-AI/BuildingBenchmark/blob/main/images/Optional_Hardware.png" width="300"> 
-
-**3d print corner pieces:**
-  - 20g of PLA
-  - 1 hour
-    
-**Fasteners:**  
-  - 4 M4 x 20 screws
-  - 4 adequately sized M4 T-nuts
+<table>
+  <thead>
+    <tr>
+      <th>Essential hardware</th>
+      <th>Optional hardware</th>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>
+        <img align="left" alt='Essential Hardware' src="https://github.com/Collaborative-Robotics-and-AI/BuildingBenchmark/blob/main/images/Essential_Hardware.png" width="500">
+      </td>
+      <td>
+        <img align="left" alt='Optional Hardware' src="https://github.com/Collaborative-Robotics-and-AI/BuildingBenchmark/blob/main/images/Optional_Hardware.png" width="250">
+      </td>
+    </tr>
+    <tr>
+      <td>
+        <b>3D printed buildings and base:</b>
+        <ul>
+          <li>520g of PLA</li>
+          <li>25 hours</li>
+        </ul>
+        <b>Fasteners:</b>
+        <ul>
+          <li>M5 x 30 screws (x5)</li>
+          <li>ISO 4032 M5 nuts (x5)</li>
+        </ul>
+      </td>
+      <td>
+        <b>3D print corner pieces:</b>
+        <ul>
+            <li>20g of PLA</li>
+            <li>1 hour</li>
+          </ul>
+          <b>Fasteners:</b>
+          <ul>
+            <li>M4 x 20 screws (x4)</li>
+            <li>Adequately sized M4 T-nuts (x4)</li>
+          </ul>
+      </td>
+    </tr>
+  </tbody>
+</table>
