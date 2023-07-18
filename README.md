@@ -27,21 +27,26 @@ The proposed benchmark is representative of a city landscape and contains a tota
 | Hospital | <img valign='middle' alt='white' src='https://readme-swatches.vercel.app/ffffff?style=round'/>  | 3          | ✓     |       | ✓     |          |            |
 
 ## Benchmark deployment
-<img align="left" alt='Essential Hardware' src="https://github.com/Collaborative-Robotics-and-AI/BuildingBenchmark/blob/main/images/Essential_Hardware.png" width="200"> 
+
+<img align="right" alt='Essential Hardware' src="https://github.com/Collaborative-Robotics-and-AI/BuildingBenchmark/blob/main/images/Essential_Hardware.png" width="300"> 
 
 ### Essential benchmark hardware
 
 **3D printed buildings and base:**
   - 520g of PLA
   - 25 hours
-    
+
 **Fasteners:**
   - 4 M5 x 30 screws
   - 4 ISO 4032 M5 nuts
 
-<img align="left" alt='Optional Hardware' src="https://github.com/Collaborative-Robotics-and-AI/BuildingBenchmark/blob/main/images/Optional_Hardware.png" width="200"> 
+<br/><br/>
+<br/><br/>
+<br/><br/>
 
+---
 ### Optional benchmark hardware
+<img align="right" alt='Optional Hardware' src="https://github.com/Collaborative-Robotics-and-AI/BuildingBenchmark/blob/main/images/Optional_Hardware.png" width="300"> 
 
 **3d print corner pieces:**
   - 20g of PLA
