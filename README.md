@@ -24,7 +24,7 @@ The proposed benchmark is representative of a city landscape and contains a tota
 | Triangle | <img valign='middle' alt='red' src='https://readme-swatches.vercel.app/bb0000?style=round'/>    | 1          | ✓     |       |       |          |            |
 | Wheel    | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/363e8e?style=round'/>   | 2          | ✓     |       | ✓     |          | ✓          |
 | Dovetail | <img valign='middle' alt='black' src='https://readme-swatches.vercel.app/000000?style=round'/>  | 2          | ✓     | ✓     |       |          |            |
-| Hospital | <img valign='middle' alt='white' src='https://readme-swatches.vercel.app/ffffff?style=round'/>  | 3          | ✓     |       | ✓     |          |            |
+| Hospital | <img valign='middle' alt='white' src='https://readme-swatches.vercel.app/f2f2f2?style=round'/>  | 3          | ✓     |       | ✓     |          |            |
 
 ## Benchmark deployment
 
