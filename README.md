@@ -39,9 +39,11 @@ The proposed benchmark is representative of a city landscape and contains a tota
   - 4 M5 x 30 screws
   - 4 ISO 4032 M5 nuts
 
+<img align="left" alt='Optional Hardware' src="https://github.com/Collaborative-Robotics-and-AI/BuildingBenchmark/blob/main/images/Optional_Hardware.png" width="200"> 
+
 ### Optional benchmark hardware
 
-**3d print corner pieces::**
+**3d print corner pieces:**
   - 20g of PLA
   - 1 hour
     
