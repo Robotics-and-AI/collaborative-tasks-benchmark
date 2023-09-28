@@ -1,10 +1,10 @@
-# Building Benchmark (BB)
+# Collaborative Tasks Benchmark (CT Benchmark)
 <p align="center">
-  <img alt='Assembled benchmark' src="https://github.com/Collaborative-Robotics-and-AI/BuildingBenchmark/blob/main/images/Assembled_Benchmark.png" width="800">  
+  <img alt='Assembled benchmark' src="images/Assembled_Benchmark.png" width="800">  
 </p>
 
 ## Introduction
-Benchmarks are crucial to help robotics research advance in an efficient and standardized manner, however, the collaborative assembly field lacks a benchmark with multiple tasks of varying task complexity. As such, we propose the Building Benchmark (BB). It contains 7 distinct tasks ranging from easy to difficult assembly scenarios, each with 1 to 3 parts, providing a rich environment for studying collaborative assembly systems. Its design was grounded on the following criteria:
+Benchmarks are crucial to help robotics research advance in an efficient and standardized manner, however, the collaborative assembly field lacks a benchmark with multiple tasks of varying task complexity. As such, we propose the Collaborative Tasks Benchmark (CT Benchmark). It contains 7 distinct tasks ranging from easy to difficult assembly scenarios, each with 1 to 3 parts, providing a rich environment for studying collaborative assembly systems. Its design was grounded on the following criteria:
 
 - Contain independent sequential assembly tasks 
 - Tasks have a wide variety of sturdy and graspable 3D printable pieces
@@ -38,10 +38,10 @@ The proposed benchmark is representative of a city landscape and contains a tota
   <tbody>
     <tr>
       <td>
-        <img align="left" alt='Essential Hardware' src="https://github.com/Collaborative-Robotics-and-AI/BuildingBenchmark/blob/main/images/Essential_Hardware.png" width="500">
+        <img align="left" alt='Essential Hardware' src="images/Essential_Hardware.png" width="500">
       </td>
       <td>
-        <img align="left" alt='Optional Hardware' src="https://github.com/Collaborative-Robotics-and-AI/BuildingBenchmark/blob/main/images/Optional_Hardware.png" width="250">
+        <img align="left" alt='Optional Hardware' src="images/Optional_Hardware.png" width="250">
       </td>
     </tr>
     <tr>
