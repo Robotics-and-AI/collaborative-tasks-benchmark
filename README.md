@@ -16,7 +16,7 @@ any combination of its inherent sub-systems: task sequencing allocation, fully-r
 ## Task description
 The proposed benchmark is representative of a city landscape and contains a total of 7 unique tasks. The main assembly operations are wide tolerance insertion (WTI), tight tolerance insertion (TTI), screw fastening, snap fitting and two-handed actions.
 
-| Building | Color                                                                                           | # of parts | WTI   | TTI   | Screw | Snap-fit | Two-handed |
+| Task     | Color                                                                                           | # of parts | WTI   | TTI   | Screw | Snap-fit | Two-handed |
 | :------: | :---------------------------------------------------------------------------------------------: | :--------: | :---: | :---: | :---: | :------: | :--------: |
 | Museum   | <img valign='middle' alt='green' src='https://readme-swatches.vercel.app/089b00?style=round'/>  | 1          | ✓     |       |       |          |            |
 | Snap     | <img valign='middle' alt='yellow' src='https://readme-swatches.vercel.app/d9d92e?style=round'/> | 3          | ✓     | ✓     |       | ✓        |            |
