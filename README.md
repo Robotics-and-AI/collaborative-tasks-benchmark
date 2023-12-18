@@ -16,15 +16,15 @@ any combination of its inherent sub-systems: task sequencing allocation, fully-r
 ## Task description
 The proposed benchmark is representative of a city landscape and contains a total of 7 unique tasks. The main assembly operations are wide tolerance insertion (WTI), tight tolerance insertion (TTI), screw fastening, snap fitting and two-handed actions.
 
-| Task     | Color                                                                                           | # of parts | WTI   | TTI   | Screw | Snap-fit | Two-handed |
-| :------: | :---------------------------------------------------------------------------------------------: | :--------: | :---: | :---: | :---: | :------: | :--------: |
-| Museum   | <img valign='middle' alt='green' src='https://readme-swatches.vercel.app/089b00?style=round'/>  | 1          | ✓     |       |       |          |            |
-| Snap     | <img valign='middle' alt='yellow' src='https://readme-swatches.vercel.app/d9d92e?style=round'/> | 3          | ✓     | ✓     |       | ✓        |            |
-| Bridge   | <img valign='middle' alt='orange' src='https://readme-swatches.vercel.app/ff7700?style=round'/> | 3          | ✓     | ✓     |       |          |            |
-| Triangle | <img valign='middle' alt='red' src='https://readme-swatches.vercel.app/bb0000?style=round'/>    | 1          | ✓     |       |       |          |            |
-| Wheel    | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/363e8e?style=round'/>   | 2          | ✓     |       | ✓     |          | ✓          |
-| Dovetail | <img valign='middle' alt='black' src='https://readme-swatches.vercel.app/000000?style=round'/>  | 2          | ✓     | ✓     |       |          |            |
-| Hospital | <img valign='middle' alt='white' src='https://readme-swatches.vercel.app/f2f2f2?style=round'/>  | 3          | ✓     |       | ✓     |          |            |
+| Task     | Color                                                                                           | # sub-tasks | # parts | WTI   | TTI   | Screw | Snap-fit | Two-handed |
+| :------: | :---------------------------------------------------------------------------------------------: | :---------: | :-----: | :---: | :---: | :---: | :------: | :--------: |
+| Museum   | <img valign='middle' alt='green' src='https://readme-swatches.vercel.app/089b00?style=round'/>  | 1           | 1       | ✓     |       |       |          |            |
+| Snap     | <img valign='middle' alt='yellow' src='https://readme-swatches.vercel.app/d9d92e?style=round'/> | 3           | 3       | ✓     | ✓     |       | ✓       |            |
+| Bridge   | <img valign='middle' alt='orange' src='https://readme-swatches.vercel.app/ff7700?style=round'/> | 3           | 3       | ✓     | ✓     |       |          |            |
+| Triangle | <img valign='middle' alt='red' src='https://readme-swatches.vercel.app/bb0000?style=round'/>    | 1           | 1       | ✓     |       |       |          |            |
+| Wheel    | <img valign='middle' alt='blue' src='https://readme-swatches.vercel.app/363e8e?style=round'/>   | 3           | 2       | ✓     |       | ✓     |          | ✓          |
+| Dovetail | <img valign='middle' alt='black' src='https://readme-swatches.vercel.app/000000?style=round'/>  | 2           | 2       | ✓     | ✓     |       |          |            |
+| Hospital | <img valign='middle' alt='white' src='https://readme-swatches.vercel.app/f2f2f2?style=round'/>  | 4           | 3       | ✓     |       | ✓     |          |            |
 
 ## Benchmark deployment
 
