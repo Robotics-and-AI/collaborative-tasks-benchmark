@@ -18,7 +18,7 @@ All supports can be fixed to a T-slot aluminium extrusion frame, with the use of
   
   <tbody>
     <tr>
-      <td>Screw Holder Image (Screw_Holder.stl)</td>
+      <td><img align="left" alt='Screw holder' src="images/Screw_Holder.png" width="500"></td>
       <td>
         Hold the screws in an upright position for easy access to the user
         <p></p>
@@ -30,7 +30,7 @@ All supports can be fixed to a T-slot aluminium extrusion frame, with the use of
       </td>
     </tr>
     <tr>
-      <td>Tray for Robot Image (Tray_Robot.stl)</td>
+      <td><img align="left" alt='Tray for robot' src="images/Tray_Robot.png" width="500"></td>
       <td>
         Hold the benchmark parts intended to be picked up by the collaborative robot
         <p></p>
@@ -42,7 +42,7 @@ All supports can be fixed to a T-slot aluminium extrusion frame, with the use of
       </td>
     </tr>
     <tr>
-      <td>Tray for Human Image (Tray_Human.stl)</td>
+      <td><img align="left" alt='Tray for human' src="images/Tray_Human.png" width="500"></td>
       <td>
         Hold the benchmark parts intended to be picked up by the human operator
         <p></p>
