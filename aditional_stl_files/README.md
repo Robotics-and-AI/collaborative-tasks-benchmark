@@ -1,9 +1,9 @@
-## Additional 3D printable Supports
+## Additional 3D printable supports
 
-In addition to the essential and optional hardware, three supports are made available.
+In addition to the essential and optional hardware, three supports are made available to aid the assembly process.
 These supports were used to guarantee a repeatable setup in the accompanying article while performing the proposed manufacturing assembly scenarios 
 
-All supports can be fixed to the base of a T-slot aluminium extrusion frame, with the use of screws and T-nuts.
+All supports can be fixed to a T-slot aluminium extrusion frame, with the use of screws and T-nuts.
 
 ## Part description
 
@@ -12,7 +12,7 @@ All supports can be fixed to the base of a T-slot aluminium extrusion frame, wit
   <thead>
     <tr>
       <th>Image</th>
-      <th>Description</th>
+      <th>Intended use</th>
     </tr>
   </thead>
   
@@ -20,36 +20,36 @@ All supports can be fixed to the base of a T-slot aluminium extrusion frame, wit
     <tr>
       <td>Screw Holder Image (Screw_Holder.stl)</td>
       <td>
-        Holds the screws in an upright position for easy access to the user
+        Hold the screws in an upright position for easy access to the user
         <p></p>
         <b>Fasteners:</b>
           <ul>
-            <li>M5 x 30 screws (x5)</li>
-            <li>ISO 4032 M5 nuts (x5)</li>
+            <li>M6 x 12 screws (x2)</li>
+            <li>Adequately sized M6 T-nuts (x2)</li>
           </ul>
       </td>
     </tr>
     <tr>
       <td>Tray for Robot Image (Tray_Robot.stl)</td>
       <td>
-        Holds the benchmark parts intended to be picked up by the collaborative robot
+        Hold the benchmark parts intended to be picked up by the collaborative robot
         <p></p>
         <b>Fasteners:</b>
           <ul>
-            <li>M5 x 30 screws (x5)</li>
-            <li>ISO 4032 M5 nuts (x5)</li>
+            <li>M6 x 12 screws (x4)</li>
+            <li>Adequately sized M6 T-nuts (x4)</li>
           </ul>
       </td>
     </tr>
     <tr>
       <td>Tray for Human Image (Tray_Human.stl)</td>
       <td>
-        Holds the benchmark parts intended to be picked up by the human operator
+        Hold the benchmark parts intended to be picked up by the human operator
         <p></p>
         <b>Fasteners:</b>
           <ul>
-            <li>M5 x 30 screws (x5)</li>
-            <li>ISO 4032 M5 nuts (x5)</li>
+            <li>M6 x 12 screws (x4)</li>
+            <li>Adequately sized M6 T-nuts (x4)</li>
           </ul>
       </td>
     </tr>
