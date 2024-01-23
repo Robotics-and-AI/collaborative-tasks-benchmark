@@ -1,8 +1,5 @@
 ## Additional 3D printable supports
 
-In addition to the essential and optional hardware, three supports are made available to aid the assembly process.
-These supports were used to guarantee a repeatable setup in the accompanying article while performing the proposed manufacturing assembly scenarios.
-
 All supports can be fixed to a T-slot aluminium extrusion frame, with the use of screws and T-nuts.
 
 ## Part description
