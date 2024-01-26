@@ -1,0 +1,17 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it as below."
+authors:
+  - affiliation: University of Coimbra
+    alias: MigNeves
+    family-names: Neves
+    given-names: Miguel
+    orcid: https://orcid.org/0000-0002-6792-0042
+  - affiliation: University of Coimbra
+    alias: laurasfduarte
+    family-names: Duarte
+    given-names: Laura
+    orcid: https://orcid.org/0000-0001-8055-2865
+title: "Collaborative Tasks Benchmark"
+url: https://github.com/Collaborative-Robotics-and-AI/collaborative-tasks-benchmark
+license: Attribution-ShareAlike 4.0 International
+type: software
