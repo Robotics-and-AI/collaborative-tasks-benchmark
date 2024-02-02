@@ -77,7 +77,7 @@ The proposed benchmark is representative of a city landscape and contains a tota
 In addition to the essential and optional hardware, <a href="aditional_stl_files">three supports</a> are made available to aid the assembly process. 
 These supports were used to guarantee a repeatable setup in the accompanying article while performing the proposed manufacturing assembly scenarios.
 
-# Cite our paper
+## Cite our paper
 If you've found the CT Benchmark useful for your research, please cite our paper as follows:
 
 ```
