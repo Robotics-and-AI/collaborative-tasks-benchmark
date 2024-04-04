@@ -81,12 +81,15 @@ These supports were used to guarantee a repeatable setup in the accompanying art
 If you've found the CT Benchmark useful for your research, please cite our paper as follows:
 
 ```
-@misc{duarte2024benchmarking,
-      title={Benchmarking human-robot collaborative assembly tasks}, 
-      author={Laura Duarte and 
-              Miguel Neves and 
-              Pedro Neto},
-      year={2024},
-      doi={10.48550/arXiv.2402.00708}
+@article{duarte2024benchmarking,
+         title = {Benchmarking human-robot collaborative assembly tasks},
+         author = {Laura Duarte and 
+                   Miguel Neves and 
+                   Pedro Neto},
+         journal = {Results in Engineering},
+         volume = {22},
+         year = {2024},
+         issn = {2590-1230},
+         doi = {10.1016/j.rineng.2024.102042}
 }
 ```
